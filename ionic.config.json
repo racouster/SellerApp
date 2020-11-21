@@ -1,5 +1,7 @@
 {
   "name": "appR1",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
